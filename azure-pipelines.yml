@@ -2,6 +2,7 @@ trigger:
 - main
 
 pool:
+  name: Ekisa Chatbots
   vmImage: ubuntu-latest
 
 steps:
